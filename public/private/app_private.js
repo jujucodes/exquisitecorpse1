@@ -1,5 +1,6 @@
 let chatBox;
 let roomName;
+let socket = io();
 
 //initialize nedb
 // let Datastore = require('nedb');
